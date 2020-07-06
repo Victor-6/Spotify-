@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App-home {
+  font-size: 28px;
+}
+
+.App-content {
+  cursor: pointer;
+}
